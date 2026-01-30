@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh pr view:*)",
+      "Bash(gh pr diff:*)",
+      "Bash(gh pr review:*)",
+      "Bash(gh pr create:*)",
+      "Bash(gh pr comment:*)",
+      "Bash(gh api:*)",
+      "Bash(gh pr checkout:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout:*)",
+      "Bash(git pull:*)",
+      "Bash(git push:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(docker-compose:*)",
+      "Bash(docker:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(pytest:*)",
+      "Bash(python:*)",
+      "Bash(stripe:*)",
+      "Task(tech-lead)",
+      "Task(backend-developer)",
+      "Task(frontend-developer)",
+      "Task(security-reviewer)",
+      "Task(performance-reviewer)",
+      "Task(quality-reviewer)",
+      "Task(debugger)"
+    ]
+  }
+}
