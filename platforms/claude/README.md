@@ -39,7 +39,8 @@ claude/
 │   ├── review-pr-batch.md
 │   ├── deep-review.md
 │   ├── test-feature.md
-│   └── validate-feature.md
+│   ├── validate-feature.md
+│   └── commit-and-push.md
 ├── settings.json             # Permissions configuration
 └── README.md                 # This file
 ```
@@ -115,6 +116,12 @@ Each agent includes:
 |---------|-------------|
 | `/test-feature` | Comprehensive feature testing |
 | `/validate-feature` | Plan vs implementation validation |
+
+### Version Control
+
+| Command | Description |
+|---------|-------------|
+| `/commit-and-push` | Commitizen-formatted commit, then push |
 
 ## Usage Examples
 

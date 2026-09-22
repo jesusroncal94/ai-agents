@@ -99,6 +99,12 @@ ai-agents/
 | `/test-feature` | Comprehensive feature testing |
 | `/validate-feature` | Plan vs implementation validation |
 
+### Version Control
+
+| Command | Description |
+|---------|-------------|
+| `/commit-and-push` | Commitizen-formatted commit, then push |
+
 ## Contributing
 
 ### Adding a New Agent
