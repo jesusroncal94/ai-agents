@@ -2,6 +2,10 @@
 
 A centralized repository for AI agents, commands, and configurations across multiple AI platforms.
 
+> **Demo:** this repository is a sample and is not maintained. Copy what is useful; expect no updates or support.
+>
+> `scripts/check.sh` (or `scripts/check.ps1`) validates the agent and command definitions in Docker.
+
 ## Overview
 
 This repository provides reusable AI agent configurations, custom commands, and best practices for integrating AI assistants into development workflows. Currently supports Claude Code, with architecture designed for future platform expansion.
